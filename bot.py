@@ -31,22 +31,20 @@ Send me a <b>word/sentence.</b> I will Translate it to you ✅
 
 Click /help for more details..
 
-▷ Made With ❤ By @ZauteKm.
+<b>▷ Made With ❤ By @ZauteKm.</b>
 """
 HELP_TEXT = """
 Hey, 
 It's not complicated 🤭
 
 <b><u>Follow these Steps.</u></b>
-
 ▷ Just send me a Word/Sentence/Paragraph.
 ▷ Select the Language and I will translate it you!
 
 <b><u>Languages :-</u></b>
-
 English, Tamil, Telugu, Hindi, Kannada, Malayalam, Urdu, Punjabi, Spanish, Korean, Japanese, Chinese, Greek, Italian, Vietnamese, Nepali
  
-▷ Made With ❤ By @ZauteKm.
+<b>▷ Made With ❤ By @ZauteKm.</b>
 """
 ABOUT_TEXT = """
 ⭕️<b>🤖 My Name : Google Translator Bot</b>
@@ -62,14 +60,14 @@ ABOUT_TEXT = """
 ⭕️<b>📢 Updates Channel :</b> <a href='https://t.me/TGBotSzK'>TGBotSzK</a>
 """
 
-DONATE_TEXT = """❤Thanks for Clicking Donate Command❤
+DONATE_TEXT = """<b>Thanks for Clicking Donate Command.</b>
 
 The bot is free to use and always will be!
 But running this bot on server costs money, If you like this bot and want it to keep running, please support.
 
 To donate you can choose any of these options and send any amount that you wish.
 
-▷ Made With ❤ By @ZauteKm.
+<b>▷ Made With ❤ By @ZauteKm.</b>
 """
 
 START_BUTTONS = InlineKeyboardMarkup(
@@ -81,27 +79,46 @@ START_BUTTONS = InlineKeyboardMarkup(
         InlineKeyboardButton('Bot Lists 🤖', url='https://t.me/TG_BotList/37'),
         InlineKeyboardButton('Music 👨‍🎤', url='https://t.me/joinchat/7gSUxv6vgQE3M2Fl')
         ],[
-        InlineKeyboardButton('🔻 Help and Informations 🔻', callback_data='help')
+        InlineKeyboardButton('🔻 Subscribe Now YouTube 🔻', url='https://youtube.com/c/ZauteKm')
         ]]
     )
 HELP_BUTTONS = InlineKeyboardMarkup(
         [[
+        InlineKeyboardButton('👥 Group', url='https://telegram.me/ZauteSupport'),
+        InlineKeyboardButton(' Channel 📢', url='https://telegram.me/TGBotSzK')
+        ],[
+        InlineKeyboardButton('🗣 Feedback', url='https://telegram.me/ZauteBot'),
         InlineKeyboardButton('Bot Lists 🤖', url='https://t.me/TG_BotList/37'),
-        InlineKeyboardButton('Music 👨‍🎤', url='https://t.me/joinchat/7gSUxv6vgQE3M2Fl'),
-        InlineKeyboardButton('🗣 Feedback', url='https://telegram.me/ZauteBot')
+        InlineKeyboardButton('Music 👨‍🎤', url='https://t.me/joinchat/7gSUxv6vgQE3M2Fl')
+        ],[
+        InlineKeyboardButton('🔻 Subscribe Now YouTube 🔻', url='https://youtube.com/c/ZauteKm')
         ]]
     )
 ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('⚜ Source ⚜', url='https://githup.com/ZauteKm/Google-Translate'),
-        InlineKeyboardButton('⚜ Group ⚜', url='https://telegram.me/ZauTeSupport'),
-        InlineKeyboardButton('🗣 Feedback', url='https://telegram.me/ZauteBot')
+        InlineKeyboardButton('👥 Group', url='https://telegram.me/ZauteSupport'),
+        InlineKeyboardButton(' Channel 📢', url='https://telegram.me/TGBotSzK')
+        ],[
+        InlineKeyboardButton('🗣 Feedback', url='https://telegram.me/ZauteBot'),
+        InlineKeyboardButton('Bot Lists 🤖', url='https://t.me/TG_BotList/37'),
+        InlineKeyboardButton('Music 👨‍🎤', url='https://t.me/joinchat/7gSUxv6vgQE3M2Fl')
+        ],[
+        InlineKeyboardButton('🔻 Subscribe Now YouTube 🔻', url='https://youtube.com/c/ZauteKm')
         ]]
     )
 DONATE_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('💸 PayPal', url='https://t.me/Zautebot'),
         InlineKeyboardButton('UPI 🤑', url='https://t.me/zautebot')
+        ],[
+        InlineKeyboardButton('👥 Group', url='https://telegram.me/ZauteSupport'),
+        InlineKeyboardButton(' Channel 📢', url='https://telegram.me/TGBotSzK')
+        ],[
+        InlineKeyboardButton('🗣 Feedback', url='https://telegram.me/ZauteBot'),
+        InlineKeyboardButton('Bot Lists 🤖', url='https://t.me/TG_BotList/37'),
+        InlineKeyboardButton('Music 👨‍🎤', url='https://t.me/joinchat/7gSUxv6vgQE3M2Fl')
+        ],[
+        InlineKeyboardButton('🔻 Subscribe Now YouTube 🔻', url='https://youtube.com/c/ZauteKm')
         ]]
     )
 
