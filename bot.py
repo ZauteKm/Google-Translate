@@ -156,7 +156,9 @@ def echo(client, message):
  
  keybord = InlineKeyboardMarkup( [
         [
-            InlineKeyboardButton("English", callback_data='en'),
+            InlineKeyboardButton("Mizo",callback_data='mizo')
+        ],
+        [   InlineKeyboardButton("English", callback_data='en'),
             InlineKeyboardButton("Tamil", callback_data='ta'),
             InlineKeyboardButton("Telugu",callback_data='te')
         ],
