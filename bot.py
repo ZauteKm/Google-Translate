@@ -74,9 +74,14 @@ To donate you can choose any of these options and send any amount that you wish.
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Channel 📢', url='https://telegram.me/TGBotSzK'),
-        InlineKeyboardButton(' Group 👥', url='https://telegram.me/ZauteSupport'),
-        InlineKeyboardButton('🗣 Feedback', url='https://telegram.me/ZauteBot')
+        InlineKeyboardButton('👥 Group', url='https://telegram.me/ZauteSupport'),
+        InlineKeyboardButton(' Channel 📢', url='https://telegram.me/TGBotSzK')
+        ],]
+        InlineKeyboardButton('🗣 Feedback', url='https://telegram.me/ZauteBot'),
+        InlineKeyboardButton('Bot Lists 🤖', url='https://t.me/TG_BotList/37'),
+        InlineKeyboardButton('Music 👨‍🎤', url='https://t.me/joinchat/7gSUxv6vgQE3M2Fl')
+        ],]
+        InlineKeyboardButton('🔻 Help and Informations 🔻', callback_data='help')
         ]]
     )
 HELP_BUTTONS = InlineKeyboardMarkup(
@@ -96,7 +101,7 @@ ABOUT_BUTTONS = InlineKeyboardMarkup(
 DONATE_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('💸 PayPal', url='https://t.me/Zautebot'),
-        InlineKeyboardButton('UPI 🤑', url='https://zautebot')
+        InlineKeyboardButton('UPI 🤑', url='https://t.me/zautebot')
         ]]
     )
 
