@@ -29,7 +29,7 @@ I am <b>Google Translator Bot.</b>
 
 Send me a <b>word/sentence.</b> I will Translate it to you ✅
 
-Click help for more details..
+Click /help for more details..
 
 ▷ Made With ❤ By @ZauteKm.
 """
@@ -62,7 +62,7 @@ ABOUT_TEXT = """
 ⭕️<b>📢 Updates Channel :</b> <a href='https://t.me/TGBotSzK'>TGBotSzK</a>
 """
 
-DONATE_TEXT = """❤ <b>Thanks for Clicking Donate Command</b> ❤
+DONATE_TEXT = """❤Thanks for Clicking Donate Command❤
 
 The bot is free to use and always will be!
 But running this bot on server costs money, If you like this bot and want it to keep running, please support.
@@ -97,10 +97,6 @@ DONATE_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('💸 PayPal', url='https://t.me/Zautebot'),
         InlineKeyboardButton('UPI 🤑', url='https://zautebot')
-        ],[
-        InlineKeyboardButton('⚜ Channel ⚜', url='https://telegram.me/TGBotSzK'),
-        InlineKeyboardButton('⚜ Group ⚜', url='https://telegram.me/ZauteSupport'),
-        InlineKeyboardButton('🗣 Feedback', url='https://telegram.me/ZauteBot')
         ]]
     )
 
