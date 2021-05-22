@@ -37,4 +37,4 @@ Press the button Deploy to heroku and give the values for the Configs vars. 👇
 ### Credits
 [Pyrogram](https://docs.pyrogram.org)
 
-[Deccan_Botz](https://t.me/ZauteBot)
+[Zaute Km](https://t.me/ZauteKm)
