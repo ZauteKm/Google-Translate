@@ -7,7 +7,7 @@ English,  Tamil,  Telugu,  Hindi,  Kannada,  Malayalam,  Urdu,  Punjabi,  Spanis
 
  <img src = "https://telegra.ph/file/73a6f6a32764f9795af3d.jpg">
 
-  <p align="center">▷ Made With ❤ By [@ZauteKm](https://telegram.dog/ZauteKm</p>
+  <p align="center">▷ Made With ❤ By [@ZauteKm](https://telegram.dog/ZauteKm)</p>
 
 <p align="center">
   <a href="https://www.python.org">
