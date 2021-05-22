@@ -1,0 +1,23 @@
+{
+    "name": "Google Translator",
+    "description": "This Bot can translate the text in supported languages",
+    "repository": "https://github.com/ZauteKm/Google-Translate",
+    "logo": "https://telegra.ph/file/73a6f6a32764f9795af3d.jpg" ,
+    "keywords": ["Google Translator", "Zaute Km", "telegram bot"],
+    "env": {
+        "TOKEN": {
+            "description": "Your Bot token from @Botfather"
+        },
+        "APP_ID": {
+            "description": "Your API_ID from https://my.telegram.org/apps or @UseTGzKbot"
+        },
+        "API_HASH": {
+            "description": "Your API_HASH from https://my.telegram.org/apps or @UseTGzKbot"
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
