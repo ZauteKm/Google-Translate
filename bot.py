@@ -55,7 +55,7 @@ ABOUT_TEXT = """
 
 ⭕️<b>📡 Hosted on :</b> <a href='https://heroku.com/'>Heroku</a>
 
-⭕️<b>👥 Group :</b> <a href='https://t.me/joinchat/qvArnd0aDlkzNjM1'>Luishai Support</a>
+⭕️<b>👥 Group :</b> <a href='https://t.me/joinchat/qvArnd0aDlkzNjM1'>Lushai Support</a>
 
 ⭕️<b>📢 Channel :</b> <a href='https://t.me/LushaiTech'>LushaiTech</a>
 """
