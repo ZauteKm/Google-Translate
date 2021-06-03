@@ -55,9 +55,9 @@ ABOUT_TEXT = """
 
 ⭕️<b>📡 Hosted on :</b> <a href='https://heroku.com/'>Heroku</a>
 
-⭕️<b>👥 Support Group :</b> <a href='https://t.me/joinchat/qvArnd0aDlkzNjM1'>Luishai Help DesK</a>
+⭕️<b>👥 Group :</b> <a href='https://t.me/joinchat/qvArnd0aDlkzNjM1'>Luishai Support</a>
 
-⭕️<b>📢 Updates Channel :</b> <a href='https://t.me/LushaiTech'>LushaiTech</a>
+⭕️<b>📢 Channel :</b> <a href='https://t.me/LushaiTech'>LushaiTech</a>
 """
 
 DONATE_TEXT = """<b>Thanks for Clicking Donate Command.</b>
