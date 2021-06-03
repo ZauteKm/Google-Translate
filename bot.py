@@ -55,9 +55,9 @@ ABOUT_TEXT = """
 
 ⭕️<b>📡 Hosted on :</b> <a href='https://heroku.com/'>Heroku</a>
 
-⭕️<b>👥 Support Group :</b> <a href='https://t.me/ZauTeSupport'>Zaute Support</a>
+⭕️<b>👥 Support Group :</b> <a href='https://t.me/joinchat/qvArnd0aDlkzNjM1'>Luishai Help DesK</a>
 
-⭕️<b>📢 Updates Channel :</b> <a href='https://t.me/TGBotSzK'>TGBotSzK</a>
+⭕️<b>📢 Updates Channel :</b> <a href='https://t.me/TGBotSzK'>LushaiTech</a>
 """
 
 DONATE_TEXT = """<b>Thanks for Clicking Donate Command.</b>
@@ -72,8 +72,8 @@ To donate you can choose any of these options and send any amount that you wish.
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('👥 Group', url='https://telegram.me/ZauteSupport'),
-        InlineKeyboardButton(' Channel 📢', url='https://telegram.me/TGBotSzK')
+        InlineKeyboardButton('👥 Group', url='https://t.me/joinchat/qvArnd0aDlkzNjM1'),
+        InlineKeyboardButton(' Channel 📢', url='https://telegram.me/LushaiTech')
         ],[
         InlineKeyboardButton('🗣 Feedback', url='https://telegram.me/ZauteBot'),
         InlineKeyboardButton('Bot Lists 🤖', url='https://t.me/TG_BotList/37'),
@@ -84,8 +84,8 @@ START_BUTTONS = InlineKeyboardMarkup(
     )
 HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('👥 Group', url='https://telegram.me/ZauteSupport'),
-        InlineKeyboardButton(' Channel 📢', url='https://telegram.me/TGBotSzK')
+        InlineKeyboardButton('👥 Group', url='https://t.me/joinchat/qvArnd0aDlkzNjM1'),
+        InlineKeyboardButton(' Channel 📢', url='https://telegram.me/LushaiTech')
         ],[
         InlineKeyboardButton('🗣 Feedback', url='https://telegram.me/ZauteBot'),
         InlineKeyboardButton('Bot Lists 🤖', url='https://t.me/TG_BotList/37'),
@@ -96,8 +96,8 @@ HELP_BUTTONS = InlineKeyboardMarkup(
     )
 ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('👥 Group', url='https://telegram.me/ZauteSupport'),
-        InlineKeyboardButton(' Channel 📢', url='https://telegram.me/TGBotSzK')
+        InlineKeyboardButton('👥 Group', url='https://t.me/joinchat/qvArnd0aDlkzNjM1'),
+        InlineKeyboardButton(' Channel 📢', url='https://telegram.me/LushaiTech')
         ],[
         InlineKeyboardButton('🗣 Feedback', url='https://telegram.me/ZauteBot'),
         InlineKeyboardButton('Bot Lists 🤖', url='https://t.me/TG_BotList/37'),
@@ -111,8 +111,8 @@ DONATE_BUTTONS = InlineKeyboardMarkup(
         InlineKeyboardButton('💸 PayPal', url='https://t.me/Zautebot'),
         InlineKeyboardButton('UPI 🤑', url='https://t.me/zautebot')
         ],[
-        InlineKeyboardButton('👥 Group', url='https://telegram.me/ZauteSupport'),
-        InlineKeyboardButton(' Channel 📢', url='https://telegram.me/TGBotSzK')
+        InlineKeyboardButton('👥 Group', url='https://t.me/joinchat/qvArnd0aDlkzNjM1'),
+        InlineKeyboardButton(' Channel 📢', url='https://telegram.me/LushaiTech')
         ],[
         InlineKeyboardButton('🗣 Feedback', url='https://telegram.me/ZauteBot'),
         InlineKeyboardButton('Bot Lists 🤖', url='https://t.me/TG_BotList/37'),
@@ -156,9 +156,7 @@ def echo(client, message):
  
  keybord = InlineKeyboardMarkup( [
         [
-            InlineKeyboardButton("Mizo",callback_data='lus')
-        ],
-        [   InlineKeyboardButton("English", callback_data='en'),
+            InlineKeyboardButton("English", callback_data='en'),
             InlineKeyboardButton("Tamil", callback_data='ta'),
             InlineKeyboardButton("Telugu",callback_data='te')
         ],
