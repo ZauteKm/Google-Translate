@@ -18,7 +18,7 @@ English,  Tamil,  Telugu,  Hindi,  Kannada,  Malayalam,  Urdu,  Punjabi,  Spanis
 <a href="https://telegram.dog/GoogleTranslatorZKbot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/yellow?icon=github)](https://github.com/ZauteKm/Google-Translate)
 [![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20me-anything-1abc9c.svg)](https://telegram.dog/zautebot)
-[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/MizoHelpDesk)
+[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://t.me/joinchat/qvArnd0aDlkzNjM1)
 
 ## Configs Vars 🤖
 
