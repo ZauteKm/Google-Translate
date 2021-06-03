@@ -57,7 +57,7 @@ ABOUT_TEXT = """
 
 ⭕️<b>👥 Support Group :</b> <a href='https://t.me/joinchat/qvArnd0aDlkzNjM1'>Luishai Help DesK</a>
 
-⭕️<b>📢 Updates Channel :</b> <a href='https://t.me/TGBotSzK'>LushaiTech</a>
+⭕️<b>📢 Updates Channel :</b> <a href='https://t.me/LushaiTech'>LushaiTech</a>
 """
 
 DONATE_TEXT = """<b>Thanks for Clicking Donate Command.</b>
