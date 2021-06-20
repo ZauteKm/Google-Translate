@@ -1,4 +1,4 @@
-# Google-Translate
+# Google -Translate
 A simple Google Tranlator Bot 
 
 <b>Languages :</b>
@@ -18,7 +18,7 @@ English,  Tamil,  Telugu,  Hindi,  Kannada,  Malayalam,  Urdu,  Punjabi,  Spanis
 <a href="https://telegram.dog/GoogleTranslatorZKbot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/yellow?icon=github)](https://github.com/ZauteKm/Google-Translate)
 [![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20me-anything-1abc9c.svg)](https://telegram.dog/zautebot)
-[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://t.me/InFoJosTelGroup)
+[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://t.me/iZaute/5)
 
 ## Configs Vars 🤖
 
@@ -31,10 +31,10 @@ English,  Tamil,  Telugu,  Hindi,  Kannada,  Malayalam,  Urdu,  Punjabi,  Spanis
 ## Deploy to heroku 🗳
 Press the button Deploy to heroku and give the values for the Configs vars. 👇
 
-[![Deploy](https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku)](https://heroku.com/deploy?template=https://github.com/InFoJosTel/Google-Translate/tree/master)
+[![Deploy](https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku)](https://heroku.com/deploy?template=https://github.com/ZauteKm/Google-Translate/tree/master)
 
 
 ### Credits
 [Pyrogram](https://docs.pyrogram.org)
 
-[Zaute Km](https://t.me/ZauteKm)
+[Zaute Km](https://t.me/iZaute/6)
